@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode.cn id=2 lang=cpp
+ *
+ * [2] 两数相加
+ */
+
+// @lc code=start
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -28,3 +35,5 @@ class Solution {
         return root->next;
     }
 };
+// @lc code=end
+
